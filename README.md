@@ -1,25 +1,24 @@
-# Final Project and Deployment
+# Jacovi E-commerce Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A multi-page e-commerce website for luxury t-shirts, jackets, accessories, iPhones, and sneakers, built with HTML5, CSS, and JavaScript. Features a sci-fi minimalist design, dark mode, slide-in navigation, product filtering, cart functionality, and contact form validation. Deployed on GitHub Pages.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
+- Responsive, mobile-first design.
+- Semantic HTML5 with 5+ elements per page.
+- Sci-fi minimalist aesthetic with green-neutral colors and dark mode.
+- JavaScript interactivity: product filters, cart, form validation, slide-in nav.
+- Deployed on GitHub Pages.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Setup
+1. Clone the repository: `git clone https://github.com/username/jacovi-ecommerce.git`
+2. Open `index.html` in a browser to view locally.
+3. Replace placeholder images in the `images/` folder.
 
-## Tasks
+## Deployment
+1. Push the repository to GitHub.
+2. Go to repository settings, enable GitHub Pages on the `main` branch.
+3. Access the live site at `https://username.github.io/jacovi-ecommerce`.
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+## Dependencies
+- [Animate.css](https://animate.style/) for animations.
+- [Google Fonts: Orbitron](https://fonts.google.com/specimen/Orbitron) for typography.
